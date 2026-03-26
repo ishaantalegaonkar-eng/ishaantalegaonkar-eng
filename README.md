@@ -62,16 +62,6 @@
 
 ---
 
-### 📌 Featured Projects:
-
-🚧 Coming Soon (Building cool cybersecurity projects…)
-
-👉 Planned Projects:
-- 🔐 Password Strength Checker  
-- 🌐 Simple Port Scanner  
-- 🛡️ Basic Keylogger (for learning only)  
-- 🔍 Website Vulnerability Scanner  
-
 ---
 
 ### 🎯 2026 Goals:
